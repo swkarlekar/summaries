@@ -76,7 +76,7 @@ A perceptron represents the most fundamental neural network: a single-layer neur
 
 _[Figure 1. Representation of binary classification done by perceptron to separate data into two classes.]_
 
-The fundamental equation for as follows the form ``Y = mx + b``:
+The fundamental equation for the prediction (Y) follows the form ``Y = mx + b``:
 
 Prediction (Y) = w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + w<sub>3</sub>x<sub>3</sub> + … + w<sub>n</sub>x<sub>n</sub> + b
 
