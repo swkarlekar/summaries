@@ -34,11 +34,11 @@ For a multitude of tasks, deep learning has been shown to achieve new state-of-t
 
 **1943:** McCulloch and Pitts introduce the first neural networking computing model.  
 
-**1957:** Rosenblatt introduce the Perceptron, a single-layer neural network.   
+**1957:** Rosenblatt introduces the Perceptron, a single-layer neural network.   
 
-**1960:** Henry J. Kelly introduces control theory, leading to develop of basic continuous backpropagation model. This method will not gain widespread recognition in the community until 1986.  
+**1960:** Henry J. Kelly introduces control theory, leading to the development of a basic continuous backpropagation model. This method will not gain widespread recognition in the community until 1986.  
  
-**1965:** Ivakhnenko & Lapa developed group method of data handling (GMDH), a group of algorithms that provide the foundation of deep learning by detailing how datasets can lead to optimized models, and demonstrate its application to shallow neural networks.   
+**1965:** Ivakhnenko & Lapa develop the group method of data handling (GMDH), a group of algorithms that provide the foundation of deep learning by detailing how datasets can lead to optimized models, and demonstrate its application to shallow neural networks.   
 
 **1971:** Ivakhnenko successfully demonstrates the deep learning process by creating an 8-layer deep network that serves as a computer identification system called Alpha.   
 
